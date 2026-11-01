@@ -123,9 +123,7 @@
   },
   "_bookingNote": "A consult = an appointment on a calendar whose name contains one of these words. Empty list = every calendar counts. Check the first sync log for Mahdavi's calendar names and adjust.",
   "booking": {
-    "calendarKeywords": [
-      "consult"
-    ]
+    "calendarKeywords": []
   },
   "speedToLead": {
     "useBusinessHours": true,
