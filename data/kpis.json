@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T14:17:27.084Z",
+  "generatedAt": "2026-11-01T14:53:39.010Z",
   "location": "The Mahdavi Law Firm",
   "targets": {
     "leadToSignedPct": 8,
@@ -22,7 +22,7 @@
     "today": {
       "label": "Today",
       "from": 1793509200000,
-      "to": 1793542647084,
+      "to": 1793544819010,
       "current": {
         "totalLeads": 0,
         "contacted": 0,
@@ -54,6 +54,7 @@
         "bySource": [],
         "byChannel": [],
         "attributedLeads": 0,
+        "stageMoved": 0,
         "attributionPct": null,
         "funnel": [
           [
@@ -131,6 +132,7 @@
         "bySource": [],
         "byChannel": [],
         "attributedLeads": 0,
+        "stageMoved": 0,
         "attributionPct": null,
         "funnel": [
           [
@@ -213,6 +215,7 @@
         "bySource": [],
         "byChannel": [],
         "attributedLeads": 0,
+        "stageMoved": 0,
         "attributionPct": null,
         "funnel": [
           [
@@ -290,6 +293,7 @@
         "bySource": [],
         "byChannel": [],
         "attributedLeads": 0,
+        "stageMoved": 0,
         "attributionPct": null,
         "funnel": [
           [
@@ -340,7 +344,7 @@
     "thisWeek": {
       "label": "This week",
       "from": 1792990800000,
-      "to": 1793542647084,
+      "to": 1793544819010,
       "current": {
         "totalLeads": 0,
         "contacted": 0,
@@ -372,6 +376,7 @@
         "bySource": [],
         "byChannel": [],
         "attributedLeads": 0,
+        "stageMoved": 0,
         "attributionPct": null,
         "funnel": [
           [
@@ -449,6 +454,7 @@
         "bySource": [],
         "byChannel": [],
         "attributedLeads": 0,
+        "stageMoved": 0,
         "attributionPct": null,
         "funnel": [
           [
@@ -531,6 +537,7 @@
         "bySource": [],
         "byChannel": [],
         "attributedLeads": 0,
+        "stageMoved": 0,
         "attributionPct": null,
         "funnel": [
           [
@@ -620,6 +627,7 @@
           ]
         ],
         "attributedLeads": 1,
+        "stageMoved": 0,
         "attributionPct": 100,
         "funnel": [
           [
@@ -669,8 +677,8 @@
     },
     "last7": {
       "label": "Last 7 days",
-      "from": 1792937847084,
-      "to": 1793542647084,
+      "from": 1792940019010,
+      "to": 1793544819010,
       "current": {
         "totalLeads": 0,
         "contacted": 0,
@@ -702,6 +710,7 @@
         "bySource": [],
         "byChannel": [],
         "attributedLeads": 0,
+        "stageMoved": 0,
         "attributionPct": null,
         "funnel": [
           [
@@ -779,6 +788,7 @@
         "bySource": [],
         "byChannel": [],
         "attributedLeads": 0,
+        "stageMoved": 0,
         "attributionPct": null,
         "funnel": [
           [
@@ -828,8 +838,8 @@
     },
     "last30": {
       "label": "Last 30 days",
-      "from": 1790950647084,
-      "to": 1793542647084,
+      "from": 1790952819010,
+      "to": 1793544819010,
       "current": {
         "totalLeads": 1,
         "contacted": 0,
@@ -873,6 +883,7 @@
           ]
         ],
         "attributedLeads": 1,
+        "stageMoved": 0,
         "attributionPct": 100,
         "funnel": [
           [
@@ -962,6 +973,7 @@
           ]
         ],
         "attributedLeads": 3,
+        "stageMoved": 0,
         "attributionPct": 100,
         "funnel": [
           [
@@ -1011,8 +1023,8 @@
     },
     "last90": {
       "label": "Last 90 days",
-      "from": 1785766647084,
-      "to": 1793542647084,
+      "from": 1785768819010,
+      "to": 1793544819010,
       "current": {
         "totalLeads": 7,
         "contacted": 1,
@@ -1061,6 +1073,7 @@
           ]
         ],
         "attributedLeads": 7,
+        "stageMoved": 0,
         "attributionPct": 100,
         "funnel": [
           [
@@ -1160,6 +1173,7 @@
           ]
         ],
         "attributedLeads": 10,
+        "stageMoved": 0,
         "attributionPct": 100,
         "funnel": [
           [
@@ -1210,7 +1224,7 @@
     "thisMonth": {
       "label": "This month",
       "from": 1793509200000,
-      "to": 1793542647084,
+      "to": 1793544819010,
       "current": {
         "totalLeads": 0,
         "contacted": 0,
@@ -1242,6 +1256,7 @@
         "bySource": [],
         "byChannel": [],
         "attributedLeads": 0,
+        "stageMoved": 0,
         "attributionPct": null,
         "funnel": [
           [
@@ -1319,6 +1334,7 @@
         "bySource": [],
         "byChannel": [],
         "attributedLeads": 0,
+        "stageMoved": 0,
         "attributionPct": null,
         "funnel": [
           [
@@ -1413,6 +1429,7 @@
           ]
         ],
         "attributedLeads": 1,
+        "stageMoved": 0,
         "attributionPct": 100,
         "funnel": [
           [
@@ -1507,6 +1524,7 @@
           ]
         ],
         "attributedLeads": 4,
+        "stageMoved": 0,
         "attributionPct": 100,
         "funnel": [
           [
@@ -1557,7 +1575,7 @@
     "thisQuarter": {
       "label": "This quarter",
       "from": 1790830800000,
-      "to": 1793542647084,
+      "to": 1793544819010,
       "current": {
         "totalLeads": 1,
         "contacted": 0,
@@ -1601,6 +1619,7 @@
           ]
         ],
         "attributedLeads": 1,
+        "stageMoved": 0,
         "attributionPct": 100,
         "funnel": [
           [
@@ -1695,6 +1714,7 @@
           ]
         ],
         "attributedLeads": 3,
+        "stageMoved": 0,
         "attributionPct": 100,
         "funnel": [
           [
@@ -1799,6 +1819,7 @@
           ]
         ],
         "attributedLeads": 9,
+        "stageMoved": 0,
         "attributionPct": 100,
         "funnel": [
           [
@@ -1893,6 +1914,7 @@
           ]
         ],
         "attributedLeads": 12,
+        "stageMoved": 0,
         "attributionPct": 100,
         "funnel": [
           [
@@ -1940,5 +1962,8 @@
         ]
       }
     }
+  },
+  "notice": {
+    "graduatedAt": null
   }
 }
