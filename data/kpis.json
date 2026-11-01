@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T14:01:03.864Z",
+  "generatedAt": "2026-11-01T14:02:17.799Z",
   "location": "The Mahdavi Law Firm",
   "targets": {
     "leadToSignedPct": 8,
@@ -22,7 +22,7 @@
     "today": {
       "label": "Today",
       "from": 1793509200000,
-      "to": 1793541663864,
+      "to": 1793541737799,
       "current": {
         "totalLeads": 0,
         "contacted": 0,
@@ -340,7 +340,7 @@
     "thisWeek": {
       "label": "This week",
       "from": 1792990800000,
-      "to": 1793541663864,
+      "to": 1793541737799,
       "current": {
         "totalLeads": 0,
         "contacted": 0,
@@ -669,8 +669,8 @@
     },
     "last7": {
       "label": "Last 7 days",
-      "from": 1792936863864,
-      "to": 1793541663864,
+      "from": 1792936937799,
+      "to": 1793541737799,
       "current": {
         "totalLeads": 0,
         "contacted": 0,
@@ -828,8 +828,8 @@
     },
     "last30": {
       "label": "Last 30 days",
-      "from": 1790949663864,
-      "to": 1793541663864,
+      "from": 1790949737799,
+      "to": 1793541737799,
       "current": {
         "totalLeads": 1,
         "contacted": 0,
@@ -1011,8 +1011,8 @@
     },
     "last90": {
       "label": "Last 90 days",
-      "from": 1785765663864,
-      "to": 1793541663864,
+      "from": 1785765737799,
+      "to": 1793541737799,
       "current": {
         "totalLeads": 7,
         "contacted": 0,
@@ -1210,7 +1210,7 @@
     "thisMonth": {
       "label": "This month",
       "from": 1793509200000,
-      "to": 1793541663864,
+      "to": 1793541737799,
       "current": {
         "totalLeads": 0,
         "contacted": 0,
@@ -1557,7 +1557,7 @@
     "thisQuarter": {
       "label": "This quarter",
       "from": 1790830800000,
-      "to": 1793541663864,
+      "to": 1793541737799,
       "current": {
         "totalLeads": 1,
         "contacted": 0,
