@@ -10,8 +10,16 @@
   "minSample": 5,
   "notice": {
     "show": true,
+    "autoHide": {
+      "minLeadsMoved": 5,
+      "window": "last90"
+    },
     "title": "Testing period",
-    "text": "This scorecard is new and still collecting data. For the first few weeks, numbers may not reflect every lead or every step, and some sections will fill in as your team moves opportunities through the pipeline. Please treat it as a preview rather than a final report."
+    "text": "This scorecard is new and still collecting data. For the first few weeks, numbers may not reflect every lead or every step, and some sections will fill in as your team moves opportunities through the pipeline. Please treat it as a preview rather than a final report.",
+    "lowActivity": {
+      "title": "Low pipeline activity",
+      "text": "Fewer leads than usual have been moved through the pipeline recently, so the numbers below may not reflect how intake is actually performing. They will firm up as your team updates each opportunity’s stage."
+    }
   },
   "_pipelinesNote": "Pipeline names to include. Empty = every pipeline. The sync log lists every pipeline and stage name so you can fill these in.",
   "pipelines": [
@@ -123,7 +131,9 @@
   },
   "_bookingNote": "A consult = an appointment on a calendar whose name contains one of these words. Empty list = every calendar counts. Check the first sync log for Mahdavi's calendar names and adjust.",
   "booking": {
-    "calendarKeywords": []
+    "calendarKeywords": [
+      "consult"
+    ]
   },
   "speedToLead": {
     "useBusinessHours": true,
