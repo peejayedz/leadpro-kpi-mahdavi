@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T02:17:20.517Z",
+  "generatedAt": "2026-11-06T09:47:47.350Z",
   "location": "The Mahdavi Law Firm",
   "targets": {
     "leadToSignedPct": 8,
@@ -21,8 +21,8 @@
   "periods": {
     "today": {
       "label": "Today",
-      "from": 1793858400000,
-      "to": 1793931440517,
+      "from": 1793944800000,
+      "to": 1793958467350,
       "current": {
         "totalLeads": 0,
         "contacted": 0,
@@ -182,8 +182,8 @@
     },
     "yesterday": {
       "label": "Yesterday",
-      "from": 1793772000000,
-      "to": 1793858400000,
+      "from": 1793858400000,
+      "to": 1793944800000,
       "current": {
         "totalLeads": 0,
         "contacted": 0,
@@ -344,7 +344,7 @@
     "thisWeek": {
       "label": "This week",
       "from": 1793599200000,
-      "to": 1793931440517,
+      "to": 1793958467350,
       "current": {
         "totalLeads": 0,
         "contacted": 0,
@@ -665,8 +665,8 @@
     },
     "last7": {
       "label": "Last 7 days",
-      "from": 1793326640517,
-      "to": 1793931440517,
+      "from": 1793353667350,
+      "to": 1793958467350,
       "current": {
         "totalLeads": 0,
         "contacted": 0,
@@ -826,8 +826,8 @@
     },
     "last30": {
       "label": "Last 30 days",
-      "from": 1791339440517,
-      "to": 1793931440517,
+      "from": 1791366467350,
+      "to": 1793958467350,
       "current": {
         "totalLeads": 1,
         "contacted": 0,
@@ -1011,8 +1011,8 @@
     },
     "last90": {
       "label": "Last 90 days",
-      "from": 1786155440517,
-      "to": 1793931440517,
+      "from": 1786182467350,
+      "to": 1793958467350,
       "current": {
         "totalLeads": 7,
         "contacted": 0,
@@ -1212,7 +1212,7 @@
     "thisMonth": {
       "label": "This month",
       "from": 1793509200000,
-      "to": 1793931440517,
+      "to": 1793958467350,
       "current": {
         "totalLeads": 0,
         "contacted": 0,
@@ -1563,7 +1563,7 @@
     "thisQuarter": {
       "label": "This quarter",
       "from": 1790830800000,
-      "to": 1793931440517,
+      "to": 1793958467350,
       "current": {
         "totalLeads": 1,
         "contacted": 0,
