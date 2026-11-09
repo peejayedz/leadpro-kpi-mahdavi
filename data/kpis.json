@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T09:39:19.512Z",
+  "generatedAt": "2026-11-09T20:39:30.108Z",
   "location": "The Mahdavi Law Firm",
   "targets": {
     "leadToSignedPct": 8,
@@ -22,7 +22,7 @@
     "today": {
       "label": "Today",
       "from": 1794204000000,
-      "to": 1794217159512,
+      "to": 1794256770108,
       "current": {
         "totalLeads": 0,
         "contacted": 0,
@@ -356,7 +356,7 @@
     "thisWeek": {
       "label": "This week",
       "from": 1794204000000,
-      "to": 1794217159512,
+      "to": 1794256770108,
       "current": {
         "totalLeads": 0,
         "contacted": 0,
@@ -689,8 +689,8 @@
     },
     "last7": {
       "label": "Last 7 days",
-      "from": 1793612359512,
-      "to": 1794217159512,
+      "from": 1793651970108,
+      "to": 1794256770108,
       "current": {
         "totalLeads": 1,
         "contacted": 0,
@@ -862,8 +862,8 @@
     },
     "last30": {
       "label": "Last 30 days",
-      "from": 1791625159512,
-      "to": 1794217159512,
+      "from": 1791664770108,
+      "to": 1794256770108,
       "current": {
         "totalLeads": 2,
         "contacted": 0,
@@ -1052,12 +1052,12 @@
     },
     "last90": {
       "label": "Last 90 days",
-      "from": 1786441159512,
-      "to": 1794217159512,
+      "from": 1786480770108,
+      "to": 1794256770108,
       "current": {
         "totalLeads": 7,
-        "contacted": 1,
-        "contactRatePct": 14.3,
+        "contacted": 0,
+        "contactRatePct": 0,
         "speedToLeadAvgMin": null,
         "speedMeasured": 0,
         "within5": 0,
@@ -1065,7 +1065,7 @@
         "missedCalls": 0,
         "missedNotReturned": 0,
         "qualified": 0,
-        "qualifiedPct": 0,
+        "qualifiedPct": null,
         "turnedAway": 0,
         "turnedAwayReasons": [],
         "consultBooked": 0,
@@ -1118,7 +1118,7 @@
           ],
           [
             "Contacted",
-            1,
+            0,
             "contacted",
             "of leads"
           ],
@@ -1258,7 +1258,7 @@
     "thisMonth": {
       "label": "This month",
       "from": 1793509200000,
-      "to": 1794217159512,
+      "to": 1794256770108,
       "current": {
         "totalLeads": 1,
         "contacted": 0,
@@ -1524,8 +1524,8 @@
       },
       "previous": {
         "totalLeads": 4,
-        "contacted": 1,
-        "contactRatePct": 25,
+        "contacted": 0,
+        "contactRatePct": 0,
         "speedToLeadAvgMin": null,
         "speedMeasured": 0,
         "within5": 0,
@@ -1533,7 +1533,7 @@
         "missedCalls": 0,
         "missedNotReturned": 0,
         "qualified": 0,
-        "qualifiedPct": 0,
+        "qualifiedPct": null,
         "turnedAway": 0,
         "turnedAwayReasons": [],
         "consultBooked": 0,
@@ -1581,7 +1581,7 @@
           ],
           [
             "Contacted",
-            1,
+            0,
             "contacted",
             "of leads"
           ],
@@ -1621,7 +1621,7 @@
     "thisQuarter": {
       "label": "This quarter",
       "from": 1790830800000,
-      "to": 1794217159512,
+      "to": 1794256770108,
       "current": {
         "totalLeads": 2,
         "contacted": 0,
@@ -1819,8 +1819,8 @@
       "to": 1790830800000,
       "current": {
         "totalLeads": 9,
-        "contacted": 1,
-        "contactRatePct": 11.1,
+        "contacted": 0,
+        "contactRatePct": 0,
         "speedToLeadAvgMin": null,
         "speedMeasured": 0,
         "within5": 0,
@@ -1828,7 +1828,7 @@
         "missedCalls": 0,
         "missedNotReturned": 0,
         "qualified": 0,
-        "qualifiedPct": 0,
+        "qualifiedPct": null,
         "turnedAway": 0,
         "turnedAwayReasons": [],
         "consultBooked": 0,
@@ -1881,7 +1881,7 @@
           ],
           [
             "Contacted",
-            1,
+            0,
             "contacted",
             "of leads"
           ],
