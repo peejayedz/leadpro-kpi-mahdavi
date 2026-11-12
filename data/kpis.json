@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T22:14:08.359Z",
+  "generatedAt": "2026-11-12T03:18:42.058Z",
   "location": "The Mahdavi Law Firm",
   "targets": {
     "leadToSignedPct": 8,
@@ -22,9 +22,9 @@
     "today": {
       "label": "Today",
       "from": 1794376800000,
-      "to": 1794435248359,
+      "to": 1794453522058,
       "current": {
-        "totalLeads": 21,
+        "totalLeads": 22,
         "contacted": 0,
         "contactRatePct": 0,
         "speedToLeadAvgMin": null,
@@ -61,22 +61,27 @@
             "Website Number Pool - Houston",
             3,
             0
+          ],
+          [
+            "Google Ads Assets",
+            1,
+            0
           ]
         ],
         "byChannel": [
           [
             "Third Party",
-            21,
+            22,
             0
           ]
         ],
-        "attributedLeads": 21,
+        "attributedLeads": 22,
         "stageMoved": 0,
         "attributionPct": 100,
         "funnel": [
           [
             "New leads",
-            21,
+            22,
             "newLeads",
             null
           ],
@@ -119,7 +124,7 @@
         ]
       },
       "previous": {
-        "totalLeads": 17,
+        "totalLeads": 19,
         "contacted": 0,
         "contactRatePct": 0,
         "speedToLeadAvgMin": null,
@@ -148,13 +153,13 @@
         "costPerSigned": null,
         "bySource": [
           [
-            "Google Business Profile - Houston",
-            7,
+            "Chat",
+            8,
             0
           ],
           [
-            "Chat",
-            7,
+            "Google Business Profile - Houston",
+            8,
             0
           ],
           [
@@ -171,7 +176,7 @@
         "byChannel": [
           [
             "Third Party",
-            10,
+            11,
             0
           ],
           [
@@ -188,15 +193,20 @@
             "Meta Ads",
             2,
             0
+          ],
+          [
+            "Google Ads",
+            1,
+            0
           ]
         ],
-        "attributedLeads": 17,
+        "attributedLeads": 19,
         "stageMoved": 0,
         "attributionPct": 100,
         "funnel": [
           [
             "New leads",
-            17,
+            19,
             "newLeads",
             null
           ],
@@ -450,9 +460,9 @@
     "thisWeek": {
       "label": "This week",
       "from": 1794204000000,
-      "to": 1794435248359,
+      "to": 1794453522058,
       "current": {
-        "totalLeads": 40,
+        "totalLeads": 41,
         "contacted": 0,
         "contactRatePct": 0,
         "speedToLeadAvgMin": null,
@@ -496,6 +506,11 @@
             0
           ],
           [
+            "Google Ads Assets",
+            1,
+            0
+          ],
+          [
             "Google Ads location extensions phone for GBP",
             1,
             0
@@ -504,7 +519,7 @@
         "byChannel": [
           [
             "Third Party",
-            32,
+            33,
             0
           ],
           [
@@ -528,13 +543,13 @@
             0
           ]
         ],
-        "attributedLeads": 40,
+        "attributedLeads": 41,
         "stageMoved": 0,
         "attributionPct": 100,
         "funnel": [
           [
             "New leads",
-            40,
+            41,
             "newLeads",
             null
           ],
@@ -830,10 +845,10 @@
     },
     "last7": {
       "label": "Last 7 days",
-      "from": 1793830448359,
-      "to": 1794435248359,
+      "from": 1793848722058,
+      "to": 1794453522058,
       "current": {
-        "totalLeads": 41,
+        "totalLeads": 42,
         "contacted": 0,
         "contactRatePct": 0,
         "speedToLeadAvgMin": null,
@@ -877,6 +892,11 @@
             0
           ],
           [
+            "Google Ads Assets",
+            1,
+            0
+          ],
+          [
             "Google Ads location extensions phone for GBP",
             1,
             0
@@ -885,7 +905,7 @@
         "byChannel": [
           [
             "Third Party",
-            32,
+            33,
             0
           ],
           [
@@ -909,13 +929,13 @@
             0
           ]
         ],
-        "attributedLeads": 41,
+        "attributedLeads": 42,
         "stageMoved": 0,
         "attributionPct": 100,
         "funnel": [
           [
             "New leads",
-            41,
+            42,
             "newLeads",
             null
           ],
@@ -1038,10 +1058,10 @@
     },
     "last30": {
       "label": "Last 30 days",
-      "from": 1791843248359,
-      "to": 1794435248359,
+      "from": 1791861522058,
+      "to": 1794453522058,
       "current": {
-        "totalLeads": 42,
+        "totalLeads": 43,
         "contacted": 0,
         "contactRatePct": 0,
         "speedToLeadAvgMin": null,
@@ -1085,6 +1105,11 @@
             0
           ],
           [
+            "Google Ads Assets",
+            1,
+            0
+          ],
+          [
             "Google Ads location extensions phone for GBP",
             1,
             0
@@ -1093,7 +1118,7 @@
         "byChannel": [
           [
             "Third Party",
-            32,
+            33,
             0
           ],
           [
@@ -1117,13 +1142,13 @@
             0
           ]
         ],
-        "attributedLeads": 42,
+        "attributedLeads": 43,
         "stageMoved": 0,
         "attributionPct": 100,
         "funnel": [
           [
             "New leads",
-            42,
+            43,
             "newLeads",
             null
           ],
@@ -1258,10 +1283,10 @@
     },
     "last90": {
       "label": "Last 90 days",
-      "from": 1786659248359,
-      "to": 1794435248359,
+      "from": 1786677522058,
+      "to": 1794453522058,
       "current": {
-        "totalLeads": 47,
+        "totalLeads": 48,
         "contacted": 1,
         "contactRatePct": 2.1,
         "speedToLeadAvgMin": null,
@@ -1305,6 +1330,11 @@
             0
           ],
           [
+            "Google Ads Assets",
+            1,
+            0
+          ],
+          [
             "Google Ads location extensions phone for GBP",
             1,
             0
@@ -1313,7 +1343,7 @@
         "byChannel": [
           [
             "Third Party",
-            32,
+            33,
             0
           ],
           [
@@ -1337,13 +1367,13 @@
             0
           ]
         ],
-        "attributedLeads": 47,
+        "attributedLeads": 48,
         "stageMoved": 0,
         "attributionPct": 100,
         "funnel": [
           [
             "New leads",
-            47,
+            48,
             "newLeads",
             null
           ],
@@ -1489,9 +1519,9 @@
     "thisMonth": {
       "label": "This month",
       "from": 1793509200000,
-      "to": 1794435248359,
+      "to": 1794453522058,
       "current": {
-        "totalLeads": 41,
+        "totalLeads": 42,
         "contacted": 0,
         "contactRatePct": 0,
         "speedToLeadAvgMin": null,
@@ -1535,6 +1565,11 @@
             0
           ],
           [
+            "Google Ads Assets",
+            1,
+            0
+          ],
+          [
             "Google Ads location extensions phone for GBP",
             1,
             0
@@ -1543,7 +1578,7 @@
         "byChannel": [
           [
             "Third Party",
-            32,
+            33,
             0
           ],
           [
@@ -1567,13 +1602,13 @@
             0
           ]
         ],
-        "attributedLeads": 41,
+        "attributedLeads": 42,
         "stageMoved": 0,
         "attributionPct": 100,
         "funnel": [
           [
             "New leads",
-            41,
+            42,
             "newLeads",
             null
           ],
@@ -1887,9 +1922,9 @@
     "thisQuarter": {
       "label": "This quarter",
       "from": 1790830800000,
-      "to": 1794435248359,
+      "to": 1794453522058,
       "current": {
-        "totalLeads": 42,
+        "totalLeads": 43,
         "contacted": 0,
         "contactRatePct": 0,
         "speedToLeadAvgMin": null,
@@ -1933,6 +1968,11 @@
             0
           ],
           [
+            "Google Ads Assets",
+            1,
+            0
+          ],
+          [
             "Google Ads location extensions phone for GBP",
             1,
             0
@@ -1941,7 +1981,7 @@
         "byChannel": [
           [
             "Third Party",
-            32,
+            33,
             0
           ],
           [
@@ -1965,13 +2005,13 @@
             0
           ]
         ],
-        "attributedLeads": 42,
+        "attributedLeads": 43,
         "stageMoved": 0,
         "attributionPct": 100,
         "funnel": [
           [
             "New leads",
-            42,
+            43,
             "newLeads",
             null
           ],
