@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T22:07:45.174Z",
+  "generatedAt": "2026-11-14T02:39:39.989Z",
   "location": "The Mahdavi Law Firm",
   "targets": {
     "leadToSignedPct": 8,
@@ -22,9 +22,9 @@
     "today": {
       "label": "Today",
       "from": 1794549600000,
-      "to": 1794607665174,
+      "to": 1794623979989,
       "current": {
-        "totalLeads": 9,
+        "totalLeads": 10,
         "contacted": 0,
         "contactRatePct": 0,
         "speedToLeadAvgMin": null,
@@ -63,6 +63,11 @@
             0
           ],
           [
+            "Facebook Ads PI Quiz",
+            1,
+            0
+          ],
+          [
             "Google Ads Assets",
             1,
             0
@@ -71,17 +76,17 @@
         "byChannel": [
           [
             "Third Party",
-            9,
+            10,
             0
           ]
         ],
-        "attributedLeads": 9,
+        "attributedLeads": 10,
         "stageMoved": 0,
         "attributionPct": 100,
         "funnel": [
           [
             "New leads",
-            9,
+            10,
             "newLeads",
             null
           ],
@@ -124,7 +129,7 @@
         ]
       },
       "previous": {
-        "totalLeads": 9,
+        "totalLeads": 13,
         "contacted": 0,
         "contactRatePct": 0,
         "speedToLeadAvgMin": null,
@@ -154,34 +159,34 @@
         "bySource": [
           [
             "Google Business Profile - Houston",
-            7,
+            9,
             0
           ],
           [
             "Website Number Pool - Houston",
-            1,
+            2,
             0
           ],
           [
             "Google Ads Assets",
-            1,
+            2,
             0
           ]
         ],
         "byChannel": [
           [
             "Third Party",
-            9,
+            13,
             0
           ]
         ],
-        "attributedLeads": 9,
+        "attributedLeads": 13,
         "stageMoved": 0,
         "attributionPct": 100,
         "funnel": [
           [
             "New leads",
-            9,
+            13,
             "newLeads",
             null
           ],
@@ -432,9 +437,9 @@
     "thisWeek": {
       "label": "This week",
       "from": 1794204000000,
-      "to": 1794607665174,
+      "to": 1794623979989,
       "current": {
-        "totalLeads": 63,
+        "totalLeads": 64,
         "contacted": 0,
         "contactRatePct": 0,
         "speedToLeadAvgMin": null,
@@ -483,6 +488,11 @@
             0
           ],
           [
+            "Facebook Ads PI Quiz",
+            1,
+            0
+          ],
+          [
             "Google Ads location extensions phone for GBP",
             1,
             0
@@ -491,7 +501,7 @@
         "byChannel": [
           [
             "Third Party",
-            55,
+            56,
             0
           ],
           [
@@ -515,13 +525,13 @@
             0
           ]
         ],
-        "attributedLeads": 63,
+        "attributedLeads": 64,
         "stageMoved": 0,
         "attributionPct": 100,
         "funnel": [
           [
             "New leads",
-            63,
+            64,
             "newLeads",
             null
           ],
@@ -817,10 +827,10 @@
     },
     "last7": {
       "label": "Last 7 days",
-      "from": 1794002865174,
-      "to": 1794607665174,
+      "from": 1794019179989,
+      "to": 1794623979989,
       "current": {
-        "totalLeads": 64,
+        "totalLeads": 65,
         "contacted": 0,
         "contactRatePct": 0,
         "speedToLeadAvgMin": null,
@@ -869,6 +879,11 @@
             0
           ],
           [
+            "Facebook Ads PI Quiz",
+            1,
+            0
+          ],
+          [
             "Google Ads location extensions phone for GBP",
             1,
             0
@@ -877,7 +892,7 @@
         "byChannel": [
           [
             "Third Party",
-            55,
+            56,
             0
           ],
           [
@@ -901,13 +916,13 @@
             0
           ]
         ],
-        "attributedLeads": 64,
+        "attributedLeads": 65,
         "stageMoved": 0,
         "attributionPct": 100,
         "funnel": [
           [
             "New leads",
-            64,
+            65,
             "newLeads",
             null
           ],
@@ -1030,10 +1045,10 @@
     },
     "last30": {
       "label": "Last 30 days",
-      "from": 1792015665174,
-      "to": 1794607665174,
+      "from": 1792031979989,
+      "to": 1794623979989,
       "current": {
-        "totalLeads": 65,
+        "totalLeads": 66,
         "contacted": 0,
         "contactRatePct": 0,
         "speedToLeadAvgMin": null,
@@ -1082,6 +1097,11 @@
             0
           ],
           [
+            "Facebook Ads PI Quiz",
+            1,
+            0
+          ],
+          [
             "Google Ads location extensions phone for GBP",
             1,
             0
@@ -1090,7 +1110,7 @@
         "byChannel": [
           [
             "Third Party",
-            55,
+            56,
             0
           ],
           [
@@ -1114,13 +1134,13 @@
             0
           ]
         ],
-        "attributedLeads": 65,
+        "attributedLeads": 66,
         "stageMoved": 0,
         "attributionPct": 100,
         "funnel": [
           [
             "New leads",
-            65,
+            66,
             "newLeads",
             null
           ],
@@ -1255,10 +1275,10 @@
     },
     "last90": {
       "label": "Last 90 days",
-      "from": 1786831665174,
-      "to": 1794607665174,
+      "from": 1786847979989,
+      "to": 1794623979989,
       "current": {
-        "totalLeads": 70,
+        "totalLeads": 71,
         "contacted": 1,
         "contactRatePct": 1.4,
         "speedToLeadAvgMin": null,
@@ -1307,6 +1327,11 @@
             0
           ],
           [
+            "Facebook Ads PI Quiz",
+            1,
+            0
+          ],
+          [
             "Google Ads location extensions phone for GBP",
             1,
             0
@@ -1315,7 +1340,7 @@
         "byChannel": [
           [
             "Third Party",
-            55,
+            56,
             0
           ],
           [
@@ -1339,13 +1364,13 @@
             0
           ]
         ],
-        "attributedLeads": 70,
+        "attributedLeads": 71,
         "stageMoved": 0,
         "attributionPct": 100,
         "funnel": [
           [
             "New leads",
-            70,
+            71,
             "newLeads",
             null
           ],
@@ -1491,9 +1516,9 @@
     "thisMonth": {
       "label": "This month",
       "from": 1793509200000,
-      "to": 1794607665174,
+      "to": 1794623979989,
       "current": {
-        "totalLeads": 64,
+        "totalLeads": 65,
         "contacted": 0,
         "contactRatePct": 0,
         "speedToLeadAvgMin": null,
@@ -1542,6 +1567,11 @@
             0
           ],
           [
+            "Facebook Ads PI Quiz",
+            1,
+            0
+          ],
+          [
             "Google Ads location extensions phone for GBP",
             1,
             0
@@ -1550,7 +1580,7 @@
         "byChannel": [
           [
             "Third Party",
-            55,
+            56,
             0
           ],
           [
@@ -1574,13 +1604,13 @@
             0
           ]
         ],
-        "attributedLeads": 64,
+        "attributedLeads": 65,
         "stageMoved": 0,
         "attributionPct": 100,
         "funnel": [
           [
             "New leads",
-            64,
+            65,
             "newLeads",
             null
           ],
@@ -1894,9 +1924,9 @@
     "thisQuarter": {
       "label": "This quarter",
       "from": 1790830800000,
-      "to": 1794607665174,
+      "to": 1794623979989,
       "current": {
-        "totalLeads": 65,
+        "totalLeads": 66,
         "contacted": 0,
         "contactRatePct": 0,
         "speedToLeadAvgMin": null,
@@ -1945,6 +1975,11 @@
             0
           ],
           [
+            "Facebook Ads PI Quiz",
+            1,
+            0
+          ],
+          [
             "Google Ads location extensions phone for GBP",
             1,
             0
@@ -1953,7 +1988,7 @@
         "byChannel": [
           [
             "Third Party",
-            55,
+            56,
             0
           ],
           [
@@ -1977,13 +2012,13 @@
             0
           ]
         ],
-        "attributedLeads": 65,
+        "attributedLeads": 66,
         "stageMoved": 0,
         "attributionPct": 100,
         "funnel": [
           [
             "New leads",
-            65,
+            66,
             "newLeads",
             null
           ],
